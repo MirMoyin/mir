@@ -2,3 +2,20 @@
 @media screen and (max-width:700px){
 
 }
+body{
+    background-color:#EAF6F6 ;
+}
+
+
+hr{
+    border-style: none;
+    color: grey;
+    border-bottom-style: dotted;
+    border-width: 5px;
+    width: 5%;
+
+}
+
+h1,h2,h3{
+    color: #66BFBF;
+}
